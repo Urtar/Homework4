@@ -1,0 +1,4 @@
+Modlin,MOD,Poland
+Łódź,LO, Poland
+Berlin,BE,Europe/Berlin
+Heatrow,HE, Europe/London
